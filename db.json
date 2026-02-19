@@ -1,0 +1,12 @@
+{
+  "destination": [
+    {
+        "id": 1,
+        "country": "Singapore",
+        "destination": [
+            "patung merlion",
+            "changi airport"
+        ]
+    }
+  ]
+}
